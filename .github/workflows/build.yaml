@@ -1,0 +1,9 @@
+﻿name: Build My Application
+on: [push]
+jobs:
+  build:
+    uses: actions/checkout@v2
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull Code
+        uses: actions/checkout@v2
