@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrickingLibrary.Api", "TrickingLibrary.Api\TrickingLibrary.Api.csproj", "{7305C157-55E4-4BEE-B739-0A8095AB11BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7305C157-55E4-4BEE-B739-0A8095AB11BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7305C157-55E4-4BEE-B739-0A8095AB11BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7305C157-55E4-4BEE-B739-0A8095AB11BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7305C157-55E4-4BEE-B739-0A8095AB11BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
