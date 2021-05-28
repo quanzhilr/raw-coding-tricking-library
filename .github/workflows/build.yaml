@@ -2,7 +2,7 @@
 on: [push]
 jobs:
   build:
-    uses: actions/checkout@v2
+    name: Build our App
     runs-on: ubuntu-latest
     steps:
       - name: Pull Code
